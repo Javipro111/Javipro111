@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Javipro111
-- 👀 I’m interested in videogames and coding
-- 🌱 I’m currently learning css, html and js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming and maths
+- 🌱 I’m currently learning python
 - 📫 How to reach me javimorenocorreas@gmail.com
 
 <!---
